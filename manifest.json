@@ -1,0 +1,23 @@
+{
+  "name": "FinTrack - Controle Financeiro",
+  "short_name": "FinTrack",
+  "description": "Controle financeiro simples e inteligente feito por Jonnie e Gabriel 🐉",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f8",
+  "theme_color": "#4b9be6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "fintrackimg.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "fintrackimg.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
